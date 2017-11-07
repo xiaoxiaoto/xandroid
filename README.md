@@ -40,7 +40,7 @@
 
               默认使用Gson解析
 
-    ZXing和ZBar：是另个Android二维码生成扫描类库。
+    ZXing和ZBar：是两个Android二维码生成扫描类库。
 
     imagepicker：图片选择操作第三方类库
 
